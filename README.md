@@ -1,5 +1,7 @@
 # object-detection
 *include two methods of object detection*
+
+*For more information, please see [link](https://github.com/bubbliiiing).*
 ## Faster RCNN
 ![image](https://user-images.githubusercontent.com/83350834/150303820-85928758-29a3-4315-97a3-bcf193e75448.png)
 ![image](https://user-images.githubusercontent.com/83350834/150303898-df9e5334-618c-4eeb-902b-d4e26ba833f0.png)
